@@ -1,0 +1,2 @@
+# projects
+INSERT IMAGE WITH MySQL BLOB using PHP
